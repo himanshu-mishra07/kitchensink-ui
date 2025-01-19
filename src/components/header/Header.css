@@ -1,0 +1,37 @@
+.navbar {
+    background-color: white; /* White background */
+    border-bottom: 1px solid #e0e0e0; /* Light grey border */
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #001e2b; /* MongoDB dark blue */
+    font-weight: 500;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #13aa52; /* MongoDB green */
+  }
+  
+  .btn-outline-success {
+    color: #13aa52; /* MongoDB green */
+    border-color: #13aa52;
+  }
+  
+  .btn-outline-success:hover {
+    color: white;
+    background-color: #13aa52; /* MongoDB green */
+  }
+
+  .custom-dropdown {
+    right: 0px; /* Adjust this value to move the dropdown to the left */
+  }

@@ -1,0 +1,9 @@
+.footer {
+    background-color: #13aa52; /* MongoDB green */
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
