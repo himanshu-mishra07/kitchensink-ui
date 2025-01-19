@@ -41,7 +41,7 @@ To build the project for production, run:
 
 ## Project Structure
 The project structure is as follows:
-
+```markdown
 kitchensink-ui/
 ├── public/                 # Public assets
 ├── src/                    # Source files
@@ -65,3 +65,5 @@ kitchensink-ui/
 ├── index.html              # HTML template
 ├── package.json            # NPM package file
 └── README.md               # Project README
+```
+
